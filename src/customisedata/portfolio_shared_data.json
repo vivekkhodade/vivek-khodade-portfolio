@@ -1,0 +1,73 @@
+{
+    "basic_info": {
+      "name": "Vivek Khodade",
+      "titles": [ "Senior Softwar Engineer", "Front-end Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "../images/myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+            "name": "React",
+            "class": "devicon-react-original",
+            "level": "90"
+        },
+        {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain",
+          "level": "75"
+        },
+        {
+          "name": "IOS",
+          "class": "devicon-apple-original",
+          "level": "75"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

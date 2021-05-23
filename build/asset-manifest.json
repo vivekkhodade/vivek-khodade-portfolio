@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vivek-khodade-portfolio/static/css/main.e75a4fbc.chunk.css",
+    "main.js": "/vivek-khodade-portfolio/static/js/main.74629396.chunk.js",
+    "main.js.map": "/vivek-khodade-portfolio/static/js/main.74629396.chunk.js.map",
+    "runtime-main.js": "/vivek-khodade-portfolio/static/js/runtime-main.a869ee9e.js",
+    "runtime-main.js.map": "/vivek-khodade-portfolio/static/js/runtime-main.a869ee9e.js.map",
+    "static/css/2.34178e39.chunk.css": "/vivek-khodade-portfolio/static/css/2.34178e39.chunk.css",
+    "static/js/2.6966f894.chunk.js": "/vivek-khodade-portfolio/static/js/2.6966f894.chunk.js",
+    "static/js/2.6966f894.chunk.js.map": "/vivek-khodade-portfolio/static/js/2.6966f894.chunk.js.map",
+    "index.html": "/vivek-khodade-portfolio/index.html",
+    "precache-manifest.36a0c938cae9e4232a064d5a2071b8a6.js": "/vivek-khodade-portfolio/precache-manifest.36a0c938cae9e4232a064d5a2071b8a6.js",
+    "service-worker.js": "/vivek-khodade-portfolio/service-worker.js",
+    "static/css/2.34178e39.chunk.css.map": "/vivek-khodade-portfolio/static/css/2.34178e39.chunk.css.map",
+    "static/css/main.e75a4fbc.chunk.css.map": "/vivek-khodade-portfolio/static/css/main.e75a4fbc.chunk.css.map",
+    "static/js/2.6966f894.chunk.js.LICENSE.txt": "/vivek-khodade-portfolio/static/js/2.6966f894.chunk.js.LICENSE.txt",
+    "static/media/myProfile.jpg": "/vivek-khodade-portfolio/static/media/myProfile.d2c79830.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a869ee9e.js",
+    "static/css/2.34178e39.chunk.css",
+    "static/js/2.6966f894.chunk.js",
+    "static/css/main.e75a4fbc.chunk.css",
+    "static/js/main.74629396.chunk.js"
+  ]
+}
