@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b4293c786c23951413ce4552aa582f7",
+    "revision": "ad9fc66e7a3972ff733e04b11dbbe443",
     "url": "/vivek-khodade-portfolio/index.html"
   },
   {
-    "revision": "02e9bb3e0aa92401be47",
+    "revision": "f754664710a077a31fb7",
     "url": "/vivek-khodade-portfolio/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "e998e3672e2e49117a7e",
+    "revision": "53f047371e9980ec1ffd",
     "url": "/vivek-khodade-portfolio/static/css/main.fcf2461e.chunk.css"
   },
   {
-    "revision": "02e9bb3e0aa92401be47",
-    "url": "/vivek-khodade-portfolio/static/js/2.24ea6f86.chunk.js"
+    "revision": "f754664710a077a31fb7",
+    "url": "/vivek-khodade-portfolio/static/js/2.77dc2927.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/vivek-khodade-portfolio/static/js/2.24ea6f86.chunk.js.LICENSE.txt"
+    "url": "/vivek-khodade-portfolio/static/js/2.77dc2927.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e998e3672e2e49117a7e",
-    "url": "/vivek-khodade-portfolio/static/js/main.b70e0c6f.chunk.js"
+    "revision": "53f047371e9980ec1ffd",
+    "url": "/vivek-khodade-portfolio/static/js/main.4f0f6d8f.chunk.js"
   },
   {
     "revision": "2aea2547402af5c07236",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vivek-khodade-portfolio/static/media/2.18ab6d34.gif"
   },
   {
-    "revision": "36d5b6a58cc76056880d0be0cb55134a",
-    "url": "/vivek-khodade-portfolio/static/media/2.36d5b6a5.jpg"
+    "revision": "2e72dd1c5a53ea4c93413bd4f4843d31",
+    "url": "/vivek-khodade-portfolio/static/media/2.2e72dd1c.jpg"
   },
   {
     "revision": "49e6725e72efe965b2174c2180db99e0",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "acf45389273c2c03ed18990b89496360",
     "url": "/vivek-khodade-portfolio/static/media/2.acf45389.jpg"
+  },
+  {
+    "revision": "36d5b6a58cc76056880d0be0cb55134a",
+    "url": "/vivek-khodade-portfolio/static/media/2bk.36d5b6a5.jpg"
   },
   {
     "revision": "1c9c0d9067d21b114ca3219be9975086",
