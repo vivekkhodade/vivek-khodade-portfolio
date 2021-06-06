@@ -5,6 +5,33 @@ import mysql from "@iconify/icons-logos/mysql";
 import NodeJS from "@iconify/icons-logos/nodejs-icon";
 import profilepic from '../images/myProfile.jpg'
 class About extends Component {
+MyFunction = ()=>{
+   var DIV_CHECK = document.getElementById("MyDiv");
+   var DIV_OUTPUT = "";
+   for(var i = 0; i < DIV_CHECK.innerHTML.length; ++i){//NOSONAR
+       if(DIV_CHECK.innerHTML[i] === "\n")
+       {
+          DIV_OUTPUT += "<br>";
+       }
+       else
+       {
+          DIV_OUTPUT += DIV_CHECK.innerHTML[i];
+       }
+   }
+   DIV_CHECK.innerHTML = DIV_OUTPUT;
+}
+componentDidMount() {
+  setTimeout(()=>{
+    this.MyFunction();
+  },100)
+}
+//WARNING! To be deprecated in React v17. Use new lifecycle static getDerivedStateFromProps instead.
+componentWillReceiveProps(nextProps) {
+  console.log('componentWillReceiveProps');
+  setTimeout(()=>{
+    this.MyFunction();
+  },100)
+}
   render() {
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
@@ -60,7 +87,7 @@ class About extends Component {
                       data-inline="false"
                     ></span>{" "}
                     &nbsp;{" "}
-                    <span
+                    <span 
                       className="iconify"
                       data-icon="twemoji:green-circle"
                       data-inline="false"
@@ -78,7 +105,13 @@ class About extends Component {
                     <span className="wave">{hello} :) </span>
                     <br />
                     <br />
-                    {about}
+                    <div id='MyDiv'>
+                    {
+                    about!==undefined ?
+                    about
+                    :""
+                    }
+                    </div>
                   </div>
                 </div>
               </div>

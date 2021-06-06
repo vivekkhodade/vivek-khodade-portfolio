@@ -1,116 +1,265 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "Ich bin Vivek Khodade. Fullstack Developer. Liebe es Apps mit Javascript zu entwickeln. Ich habe meinen Postgraduierten in Computeranwendung (MCA) von der Pune University und meinen Bachelor in Computeranwendung (BCA) von der Bharti Vidyapeeth Deemed University abgeschlossen. \n 3.5 Jahre Industrieerfahrung als React-Entwickler, seit Dezember 2017. Derzeit in Zusammenarbeit mit Cheers Interactive Pvt. Ltd.\n• Nachgewiesene Erfolgsbilanz bei der effizienten Abwicklung großer Projekt- und Produktentwicklungen.\n• Effektiver Teamplayer mit exzellenter Kommunikation und zwischenmenschliche Fähigkeiten und die Fähigkeit, mit mehreren Aufgaben/Projekten gleichzeitig zu arbeiten.\n• Starke analytische Fähigkeiten und Bewertungsfähigkeiten, eine effektive Fehlerbehebung.Selbstmotiviert mit starker Expertise in React, Node JS und MySQL.\n• Kompeten in der Implementierung innovativer und geschäftsorientierte Technologielösungen, die Kunden dabei helfen, betriebliche Effizienz zu erreichen, ihre IT-Prozesse zu optimieren und den maximalen Nutzen aus ihrer Produktimplementierung zu ziehen ionen.\n• Produkt-UI/UX, Entwicklung/Fehlerbehebungen/Funktions-Rollouts/Wartung von Softwareprodukten.\n• Fähigkeiten im Umgang mit mehreren Prioritäten, mit einer Tendenz zum Handeln und echtem Interesse an persönlicher und beruflicher Weiterentwicklung.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Adura CRM",
+      "startDate": "2017",
+      "description": "CRM, CLM, CTI, Telefonie, IVRS, E-Mail-Antwortmanagement, Salesforce-Management, Omnichannel, Auftragsmanagement, Fallmanagementlösung, Ticketmanagementlösung, Kundenerfahrung, Business Growth Engine Manager, konfigurierbares CRM, Einzellizenzprodukt, Kundeninteraktionsmanagement, CIM , Frontline-Support, Lead-Management, Kampagnen-Manager, Kampagnen-Management, Omni-Desktop, Kunden-Champion, End-to-End-Kunden-Management, Qualitätsmanagement, Umfrage- und Feedback-Management, CSAT, Customer Behavior Tracker, Customer Analytics und Workforce Management.",
+      "images": [
+        "peppy/peppy.jpg",
+        "peppy/peppy.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML/CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Aquire CRM Mobile App",
+      "startDate": "2018",
+      "description": "Bereitstellung der mobilen Aquire CRM-Anwendung als alternative Plattform für die Verwendung von ADURA CRM. Um die Kundendetails, Kommunikation, Daten und Historie zu pflegen. Um die konformen und zusätzlichen Details über den Kunden zu erfassen, der das Ticket verwendet. Um das Ticket zu erstellen und den Status des Tickets mit dem Interaktions- und Ticketmodul zu aktualisieren. Um das Trichterdiagramm der Status von Arbeitstickets anzuzeigen. Um die Anwendung zu verwenden, erstellen Sie den Benutzer/Agenten als Endbenutzer der Anwendung.",
+      "images": [
+        "peppy/peppy.jpg",
+        "peppy/peppy.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-ionic-original",
+          "name": "Ionic"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular Js"
+        }
+      ]
+    },
+    {
+      "title": "Self Service Portal",
+      "startDate": "2018",
+      "description": "Um die Kundendetails, Kommunikation, Daten und Historie zu pflegen. Um die konformen und zusätzlichen Details über den Kunden zu erfassen, der das Ticket verwendet. Um das Ticket zu erstellen und den Status des Tickets mit dem Interaktions- und Ticketmodul zu aktualisieren. Um das Trichterdiagramm der Status von Arbeitstickets anzuzeigen. Um die Anwendung zu verwenden, erstellen Sie den Benutzer/Agenten als Endbenutzer der Anwendung.",
+      "images": [
+        "peppy/peppy.jpg",
+        "peppy/peppy.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
+    },
+    {
+      "title": "Peppy Social App",
+      "startDate": "2018",
+      "description": "Eine soziale Anwendung, mit der Menschen Freunde und Partner entdecken können. Die Anwendung ermöglicht es Menschen, durch Text zu kommunizieren und Geschichten zu veröffentlichen, um sich mehr an der Kommunikation zu beteiligen.",
+      "images": [
+        "peppy/peppy.jpg",
+        "peppy/1.jpg",
+        "peppy/2.jpg",
+        "peppy/3.jpg"
+      ],
+      "url": "http://sodhanii.com/projects/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        }
+      ]
+    },
+    {
+      "title": "Bright Science Academy",
+      "startDate": "2019",
+      "description": "Willkommen bei der Bright Science Academy – hier bieten wir einen ganzheitlichen Ansatz für die Bildung Ihres Kindes. Alle unsere Tutoren sind vollqualifizierte Lehrer mit einer Geschichte herausragender Unterrichtsbeobachtungen und werden sorgfältig für die individuellen Bedürfnisse Ihres Kindes ausgewählt. Mein Ziel ist es, sicherzustellen, dass die Schüler nicht nur in akademischen Fächern hervorragende Leistungen erbringen, sondern auch erfolgreiche Fähigkeiten erwerben, die es ihnen ermöglichen, im Erwachsenenalter zu übertreffen. Dies bedeutet, dass wir Fähigkeiten wie emotionale Entwicklung, Konfliktlösung, gesunde soziale Fähigkeiten und vieles mehr entwickeln. Ich glaube daran, starke Beziehungen zu den Familien und Lehrern aufzubauen, die am Leben des Kindes beteiligt sind, um das bestmögliche Ergebnis für sie zu erzielen. Gemeinsam mit unserem engagierten Team aus Tutoren, Bildungsberatern und ganzheitlichen Pädagogen freuen wir uns, Sie auf dem Bildungsweg Ihres Kindes zu unterstützen. Die Bright Science Academy richtet sich an Schüler von KS3 bis Alevels für Mathematik und Naturwissenschaften. Und Jahr 4 bis 6 für 11+ Vorbereitung.",
+      "images": [
+        "brightscienceacademy/bsa.jpg",
+        "brightscienceacademy/1.jpg",
+        "brightscienceacademy/2.jpg"
+      ],
+      "url": "http://sodhanii.com/projects/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
+    },
+    {
+      "title": "Boom IT",
+      "startDate": "2019",
+      "description": "BoomIt – Instant Social Plans ist eine intelligente, neue Möglichkeit, die Planung Ihres „offline“ sozialen Lebens zu vereinfachen. Erkunde tolle Orte, entdecke coole Gigs & Events, finde eine Reihe von Aktivitäten, lade deine Freunde ein, antworte auf ihre Pläne, chatte mit ihnen und erschaffe jeden Tag im Handumdrehen eine neue Erinnerung!!",
+      "images": [
+        "boomit/boomit.jpg",
+        "boomit/1.jpg",
+        "boomit/2.jpg",
+        "boomit/3.jpg"
+      ],
+      "url": "http://sodhanii.com/projects/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
+    },
+    {
+      "title": "Prime Partners",
+      "startDate": "Jun-2019 to Dec-2019",
+      "description": "DRL stand vor der Herausforderung, ein Maximum an Einzelhändlern zu gewinnen und ihre Loyalität zu den Unternehmen aufzubauen. Um möglichst viele Einzelhändler zu gewinnen, hat DRL das größte Treueprogramm für Einzelhändler gestartet. Die erstellte App hatte einen technischen Vorteil der OCR-Technologie, die es Einzelhändlern ermöglichte, Informationen ohne Eingaben einzugeben.",
+      "images": [
+        "primepartner/2.gif"
+      ],
+      "url": "https://www.freshboxmedia.in/primepartner",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "Dot-Net"
+        }
+      ]
+    },
+    {
+      "title": "Team Member Life Cycle",
+      "startDate": "2020",
+      "description": "Das interne Produkt der Organisation hat es geschafft, den Prozess der Mitarbeiter zu beenden. (Vom Eintritt in die Organisation bis zum Austritt)",
+      "images": [
+        "peppy/peppy.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Cheers Interactive Pvt Ltd",
+      "title": "Sr.Software Developer (Full Stack)",
+      "years": "01.2020 - present",
+      "technologyIcon": "fab fa-react",
+      "mainTech": [
+        "React / Node Js"
+      ],
+      "technologies": [
+        "React JS",
+        "Node Js",
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "Mysql"
+      ]
+    },
+    {
+      "company": "Freshbox Media Pvt Ltd",
+      "title": "Jr.Software Developer",
+      "years": "06.2019 - 012.2019",
+      "technologyIcon": "fab fa-react",
+      "mainTech": [
+        "React Native"
+      ],
+      "technologies": [
+        "React Native",
+        "React VR",
+        "React JS",
+        "Bootstrap",
+        "Firebase",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Sodhanii Infotech Pvt Ltd",
+      "title": "Junior React Developer (Full Stack)", 
+      "years": "09.2018 - 06.2019",
+      "technologyIcon": "fab fa-react",
+      "mainTech": [
+        "React Native"
+      ],
+      "technologies": [
+        "React Native",
+        "React JS",
+        "Firebase",
+        "JavaScript",
+        "Bootstrap",
+        "Flutter",
+        "Dart"
+
+      ]
+    },
+    {
+      "company": "Enhancier Cx Solutions",
+      "title": "Trainee",
+      "years": "12.2017 - 09.2018",
+      "technologyIcon": "fab fa-react",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "React",
+        "Bootstrap",
+        "PHP",
+        "Mysql",
+        "Ionic",
+        "Angular JS"
+      ]
+    }
+  ]
+}

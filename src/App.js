@@ -4,12 +4,11 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
 import Experience from "./components/Experience";
-// import Projects from "./components/Projects";
+import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import portfolioSharedData from './customisedata/portfolio_shared_data.json';
 import res_primaryLanguage from './customisedata/res_primaryLanguage.json';
-// import res_SecondaryLanguage from './customisedata/res_secondaryLanguage.json';
-
+import res_SecondaryLanguage from './customisedata/res_secondaryLanguage.json'; 
 class App extends Component {
 
   constructor(props) {
@@ -27,9 +26,7 @@ class App extends Component {
     var resumePath =
       document.documentElement.lang === window.$primaryLanguage/**NOSONAR */
         ? res_primaryLanguage
-        : res_primaryLanguage;
-        // : res_SecondaryLanguage;
-    console.log('resumePat', resumePath);
+        : res_SecondaryLanguage;
     this.loadResumeFromPath(resumePath);
   }
 
@@ -94,7 +91,7 @@ class App extends Component {
           >
             <span
               className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
+              data-icon="emojione-v1:flag-for-germany"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
@@ -104,10 +101,10 @@ class App extends Component {
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
         />
-        {/* <Projects
+        <Projects
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
-        /> */}
+        />
         <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}

@@ -4,14 +4,14 @@
       "titles": [ "Senior Softwar Engineer", "Front-end Developer", "Mobile App Developer" ],
       "social": [
         {
+          "name": "Linked In",
+          "url": "https://www.linkedin.com/in/vivek-khodade/",
+          "class": "devicon-linkedin-plain"
+        },
+        {
           "name": "github",
           "url": "https://github.com",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
       ],
       "image": "../images/myProfile.jpg"
@@ -66,6 +66,16 @@
         {
           "name": "Firebase",
           "class": "devicon-firebase-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git Hub",
+          "class": "devicon-github-original",
+          "level": "60"
+        },
+        {
+          "name": "Git Lab",
+          "class": "devicon-gitlab-plain",
           "level": "60"
         }
       ]

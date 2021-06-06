@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "👋 I'm Vivek Khodade. Fullstack Developer. Love to develop apps using Javascript. I have completed my Masters degree in Computer Application(MCA) from Pune University and Bacholors degree in Computer Application(BCA) from Bharti Vidyapeeth Deemed University.",
+      "description": "I'm Vivek Khodade. Fullstack Developer. Love to develop apps using Javascript. I have completed my Post-graduation in Computer Application(MCA) from Pune University and my Bachelor's degree in Computer Application(BCA) from Bharti Vidyapeeth Deemed University. \n Industrial experience of 3.5+ Years, as React Developer, Since December 2017. Currently Working with Cheers Interactive Pvt. Ltd.\n\n• Proven track record of efficiently handling large Development on projects & products. \n• Effective team player with excellent communication and interpersonal skills and the ability to work with multiple tasks/projects simultaneously.\n• Strong analytical skills and evaluation capabilities, an effective troubleshooter. Self-motivated with Strong expertise in React, Node JS, and MySQL.\n• Proficient at implementing innovative and business-driven technology solutions to help clients achieve operational efficiency, optimize their IT processes and leverage maximum benefits from their product implementations.\n• Product UI/UX, Development/Bug fixes/Feature rollouts/Maintenance of Software Products.\n• Abilities in handling multiple priorities, with a bias for action and a genuine interest in personal and professional development.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "Adura CRM",
         "startDate": "2017",
-        "description": "CRM, CLM, CTI, Telephony, IVRS, Email response management, Sales force management, Omnichannel, Order Management , Case Management Solution, Ticket Management Solution, Customer Experience , Business Growth engine Manger, configurable CRM, single license product, Customer interaction management, CIM, Frontline Support, Lead Management, Campaign manager , Campaign management, omni desktop, customer champion, End to end customer management, Quality management, survey and feedback mangement, CSAT, Customer behavior tracker, customer Analytics, and workforce management.",
+        "description": "CRM, CLM, CTI, Telephony, IVRS, Email response management, Salesforce management, Omnichannel, Order Management, Case Management Solution, Ticket Management Solution, Customer Experience, Business Growth engine Manager, configurable CRM, single license product, Customer interaction management, CIM, Frontline Support, Lead Management, Campaign Manager, Campaign management, Omni desktop, customer champion, End to end customer management, Quality management, survey and feedback management, CSAT, Customer behavior tracker, customer Analytics, and workforce management.",
         "images": [
           "peppy/peppy.jpg",
           "peppy/peppy.jpg"
@@ -57,7 +57,7 @@
       {
         "title": "Self Service Portal",
         "startDate": "2018",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "To maintain the customer details, communication, data, and history. To capture the compliant and additional details about the customer using the ticket. To create the ticket and update the states of the ticket using the interaction and ticket module. To show the funnel chart of working ticket states. To use the application create the user/agent as end-user of the Application.",
         "images": [
           "peppy/peppy.jpg",
           "peppy/peppy.jpg"
@@ -69,8 +69,8 @@
             "name": "React"
           },
           {
-            "class": "devicon-php-plain",
-            "name": "PHP"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           },
           {
             "class": "devicon-mysql-plain",
@@ -81,7 +81,7 @@
       {
         "title": "Peppy Social App",
         "startDate": "2018",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "A Social application where people can discover friends and Partners. The application allows people to communicate through text and post stories to engage more in communication.",
         "images": [
           "peppy/peppy.jpg",
           "peppy/1.jpg",
@@ -109,7 +109,7 @@
           "brightscienceacademy/1.jpg",
           "brightscienceacademy/2.jpg"
         ],
-        "url": "http://sodhanii.com/projects/",
+        "url": "https://play.google.com/store/apps/details?id=com.sodhanii.brightscienceacademy",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -128,14 +128,14 @@
       {
         "title": "Boom IT",
         "startDate": "2019",
-        "description": "Welcome to Bright Science Academy – where we provide a holistic approach to your child’s education. All our tutors are fully qualified teachers with a history of outstanding lesson observations and are carefully chosen for your child’s individual requirements. My aim is to ensure students not only excel in academics but also gain successful skills which will enable them to excel in adulthood. This entails us to develop skills such as emotional development, conflict resolution, healthy social skills and many more. I believe in building strong relationships with the families and teachers involved in the child’s life to achieve the best possible outcome for them. Together, with our dedicated team of tutors, education consultants and holistic educators – We look forward to supporting you through your child’s educational journey. Bright Science Academy is aimed at students from KS3 to Alevels for both Math & Sciences. And year 4 to 6 for 11+ prep.",
+        "description": "BoomIt – Instant Social Plans is a smart, new way to simplify the planning of your “offline” social life. Explore great places, discover cool gigs & events, find a range of activities, invite your friends, RSVP to their plans, chat with them and create a new memory every day, in an instant!!",
         "images": [
           "boomit/boomit.jpg",
           "boomit/1.jpg",
           "boomit/2.jpg",
           "boomit/3.jpg"
         ],
-        "url": "http://sodhanii.com/projects/",
+        "url": "https://play.google.com/store/apps/details?id=com.sodhanii.boomit&hl=en_IN&gl=US",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -154,11 +154,11 @@
       {
         "title": "Prime Partners",
         "startDate": "Jun-2019 to Dec-2019",
-        "description": "DRL had a challenge to engage maximum retailers and build their loyalty with the organisations. In order to engage maximum retailers, DRl launched the biggest loyalty retailer bonus programme. The App created had a technical advantage of OCR technology which enabled retailers to feed information without typing.",
+        "description": "DRL had the challenge to engage maximum retailers and build their loyalty with the organizations. In order to engage maximum retailers, DRL launched the biggest loyalty retailer bonus program. The App created had a technical advantage of OCR technology which enabled retailers to feed information without typing.  ",
         "images": [
           "primepartner/2.gif"
         ],
-        "url": "https://www.freshboxmedia.in/primepartner",
+        "url": "https://play.google.com/store/apps/details?id=com.techvertica.primepartner.beta",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -173,7 +173,7 @@
       {
         "title": "Team Member Life Cycle",
         "startDate": "2020",
-        "description": "Welcome to Bright Science Academy – where we provide a holistic approach to your child’s education. All our tutors are fully qualified teachers with a history of outstanding lesson observations and are carefully chosen for your child’s individual requirements. My aim is to ensure students not only excel in academics but also gain successful skills which will enable them to excel in adulthood. This entails us to develop skills such as emotional development, conflict resolution, healthy social skills and many more. I believe in building strong relationships with the families and teachers involved in the child’s life to achieve the best possible outcome for them. Together, with our dedicated team of tutors, education consultants and holistic educators – We look forward to supporting you through your child’s educational journey. Bright Science Academy is aimed at students from KS3 to Alevels for both Math & Sciences. And year 4 to 6 for 11+ prep.",
+        "description": "The organization’s internal product managed to end the process of employees. (From joining the organization to its exit)",
         "images": [
           "peppy/peppy.jpg"
         ],
@@ -182,6 +182,10 @@
           {
             "class": "devicon-react-original",
             "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           },
           {
             "class": "devicon-mysql-plain",
